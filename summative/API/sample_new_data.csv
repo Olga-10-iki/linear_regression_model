@@ -1,0 +1,301 @@
+date,admin1,admin2,market,market_id,latitude,longitude,category,commodity,commodity_id,unit,priceflag,pricetype,currency,price,usdprice
+2026-08-15,Rift Valley,Turkana,Kakuma 3,3251,3.77,34.82,"meat, fish and eggs",Meat (camel),344,KG,aggregate,Retail,KES,606.48,4.69
+2026-07-15,Rift Valley,Turkana,Kakuma 3,3251,3.77,34.82,milk and dairy,"Milk (cow, fresh)",439,L,aggregate,Retail,KES,165.0,1.28
+2026-10-15,Rift Valley,Turkana,Kakuma 3,3251,3.77,34.82,"meat, fish and eggs",Meat (camel),344,KG,aggregate,Retail,KES,675.0,5.2
+2026-10-15,Rift Valley,Turkana,Kalobeyei (Village 2),3246,3.76,34.75,cereals and tubers,Sorghum,65,KG,aggregate,Retail,KES,80.0,0.62
+2026-07-15,Rift Valley,Turkana,Kakuma 3,3251,3.77,34.82,"meat, fish and eggs",Meat (goat),451,KG,aggregate,Retail,KES,800.0,6.19
+2026-09-15,North Eastern,Garissa,Hagadera (Daadab),3254,0.01,40.37,miscellaneous food,Salt,185,200 G,aggregate,Retail,KES,10.39,0.08
+2026-09-15,Rift Valley,Turkana,Mogadishu (Kakuma),3245,3.72,34.85,cereals and tubers,Maize,51,KG,aggregate,Retail,KES,60.0,0.46
+2026-08-15,Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),185,0.52,35.28,vegetables and fruits,Tomatoes,114,64 KG,actual,Wholesale,KES,4480.0,34.63
+2026-08-15,Rift Valley,Turkana,HongKong (Kakuma),3250,3.75,34.84,cereals and tubers,Sorghum,65,KG,aggregate,Retail,KES,40.0,0.31
+2026-08-15,Rift Valley,Turkana,Ethiopia (Kakuma),3253,3.72,34.85,oil and fats,Oil (vegetable),96,L,aggregate,Retail,KES,292.22,2.26
+2026-08-15,Rift Valley,Turkana,Ethiopia (Kakuma),3253,3.72,34.85,milk and dairy,Milk (UHT),794,500 ML,aggregate,Retail,KES,80.0,0.62
+2026-07-15,Rift Valley,Turkana,Ethiopia (Kakuma),3253,3.72,34.85,cereals and tubers,Maize flour,76,KG,aggregate,Retail,KES,90.0,0.7
+2026-08-15,North Eastern,Garissa,IFO (Daadab),3255,0.11,40.32,milk and dairy,"Milk (camel, fresh)",817,L,aggregate,Retail,KES,184.36,1.43
+2026-08-15,Rift Valley,Turkana,HongKong (Kakuma),3250,3.75,34.84,cereals and tubers,Rice,52,KG,aggregate,Retail,KES,137.22,1.06
+2026-10-15,Rift Valley,Turkana,Kakuma 2,3248,3.75,34.82,miscellaneous food,Salt,185,200 G,aggregate,Retail,KES,15.0,0.12
+2026-09-15,Rift Valley,Turkana,Kalobeyei (Village 3),3247,3.75,34.76,pulses and nuts,Beans (dry),262,KG,aggregate,Retail,KES,143.33,1.1
+2026-07-15,North Eastern,Garissa,IFO (Daadab),3255,0.11,40.32,cereals and tubers,Maize flour,76,KG,aggregate,Retail,KES,101.13,0.78
+2026-07-15,Rift Valley,Turkana,Kakuma 2,3248,3.75,34.82,milk and dairy,Milk (UHT),794,500 ML,aggregate,Retail,KES,80.0,0.62
+2026-08-15,Rift Valley,Turkana,Kalobeyei (Village 1),3244,3.77,34.73,milk and dairy,Milk (UHT),794,500 ML,aggregate,Retail,KES,77.41,0.6
+2026-09-15,Rift Valley,Turkana,HongKong (Kakuma),3250,3.75,34.84,cereals and tubers,Maize,51,KG,aggregate,Retail,KES,57.78,0.45
+2026-08-15,Rift Valley,Turkana,Kalobeyei (Village 2),3246,3.76,34.75,cereals and tubers,Maize flour,76,KG,aggregate,Retail,KES,79.26,0.61
+2026-08-15,Nairobi,Nairobi,Kangemi (Nairobi),4626,-1.27,36.74,pulses and nuts,Beans (rosecoco),897,90 KG,actual,Wholesale,KES,9599.7,74.21
+2026-08-15,Rift Valley,Turkana,Kalobeyei (Village 3),3247,3.75,34.76,miscellaneous food,Sugar,97,KG,aggregate,Retail,KES,145.93,1.13
+2026-09-15,Rift Valley,Turkana,Kalobeyei (Village 2),3246,3.76,34.75,milk and dairy,Milk (UHT),794,500 ML,aggregate,Retail,KES,90.0,0.69
+2026-10-15,Rift Valley,Turkana,Kakuma 3,3251,3.77,34.82,miscellaneous food,Sugar,97,KG,aggregate,Retail,KES,155.56,1.2
+2026-09-15,Rift Valley,Turkana,Kalobeyei (Village 2),3246,3.76,34.75,cereals and tubers,Wheat flour,58,KG,aggregate,Retail,KES,93.33,0.72
+2026-07-15,North Eastern,Garissa,Hagadera (Daadab),3254,0.01,40.37,pulses and nuts,Beans (dry),262,KG,aggregate,Retail,KES,120.0,0.93
+2026-07-15,North Eastern,Garissa,Dagahaley (Daadab),3252,0.19,40.29,milk and dairy,Milk (UHT),794,500 ML,aggregate,Retail,KES,50.48,0.39
+2026-10-15,Rift Valley,Turkana,Kalobeyei (Village 2),3246,3.76,34.75,vegetables and fruits,Bananas,254,Unit,aggregate,Retail,KES,20.0,0.15
+2026-09-15,Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),185,0.52,35.28,vegetables and fruits,Onions (dry),892,13 KG,actual,Wholesale,KES,1092.0,8.42
+2026-07-15,North Eastern,Garissa,Hagadera (Daadab),3254,0.01,40.37,cereals and tubers,Sorghum,65,KG,aggregate,Retail,KES,50.0,0.39
+2026-07-15,Rift Valley,Turkana,Kalobeyei (Village 3),3247,3.75,34.76,cereals and tubers,Maize flour,76,KG,aggregate,Retail,KES,83.33,0.64
+2026-08-15,Rift Valley,Turkana,Kakuma 4,3249,3.74,34.81,oil and fats,Oil (vegetable),96,L,aggregate,Retail,KES,312.59,2.42
+2026-07-15,Rift Valley,Turkana,Kalobeyei (Village 1),3244,3.77,34.73,cereals and tubers,Rice,52,KG,aggregate,Retail,KES,106.67,0.82
+2026-07-15,Rift Valley,Turkana,Mogadishu (Kakuma),3245,3.72,34.85,cereals and tubers,Rice,52,KG,aggregate,Retail,KES,120.0,0.93
+2026-09-15,North Eastern,Garissa,Dagahaley (Daadab),3252,0.19,40.29,milk and dairy,"Milk (cow, fresh)",439,L,aggregate,Retail,KES,150.0,1.16
+2026-09-15,Rift Valley,Turkana,Kalobeyei (Village 2),3246,3.76,34.75,cereals and tubers,Maize,51,KG,aggregate,Retail,KES,47.5,0.37
+2026-10-15,Rift Valley,Turkana,Mogadishu (Kakuma),3245,3.72,34.85,oil and fats,Oil (vegetable),96,L,aggregate,Retail,KES,300.0,2.31
+2026-09-15,Rift Valley,Turkana,Mogadishu (Kakuma),3245,3.72,34.85,"meat, fish and eggs",Meat (camel),344,KG,aggregate,Retail,KES,600.0,4.62
+2026-07-15,Rift Valley,Turkana,Kalobeyei (Village 1),3244,3.77,34.73,miscellaneous food,Salt,185,200 G,aggregate,Retail,KES,15.0,0.12
+2026-10-15,Rift Valley,Turkana,Kakuma 3,3251,3.77,34.82,"meat, fish and eggs",Meat (goat),451,KG,aggregate,Retail,KES,766.67,5.9
+2026-08-15,North Eastern,Garissa,IFO (Daadab),3255,0.11,40.32,pulses and nuts,Beans (dry),262,KG,aggregate,Retail,KES,120.95,0.94
+2026-08-15,Rift Valley,Turkana,Kakuma 2,3248,3.75,34.82,vegetables and fruits,Bananas,254,Unit,aggregate,Retail,KES,20.0,0.15
+2026-09-15,North Eastern,Garissa,Hagadera (Daadab),3254,0.01,40.37,oil and fats,Oil (vegetable),96,L,aggregate,Retail,KES,297.49,2.29
+2026-08-15,Rift Valley,Turkana,Kakuma 2,3248,3.75,34.82,cereals and tubers,Wheat flour,58,KG,aggregate,Retail,KES,85.93,0.66
+2026-10-15,North Eastern,Garissa,Hagadera (Daadab),3254,0.01,40.37,miscellaneous food,Sugar,97,KG,aggregate,Retail,KES,120.0,0.92
+2026-07-15,Nairobi,Nairobi,Kangemi (Nairobi),4626,-1.27,36.74,cereals and tubers,"Maize (white, dry)",440,90 KG,actual,Wholesale,KES,4300.2,33.26
+2026-07-15,Rift Valley,Turkana,Kakuma 4,3249,3.74,34.81,"meat, fish and eggs",Meat (goat),451,KG,aggregate,Retail,KES,800.0,6.19
+2026-10-15,Rift Valley,Turkana,Kalobeyei (Village 2),3246,3.76,34.75,"meat, fish and eggs",Meat (camel),344,KG,aggregate,Retail,KES,600.0,4.62
+2026-10-15,Rift Valley,Turkana,Kakuma 2,3248,3.75,34.82,oil and fats,Oil (vegetable),96,L,aggregate,Retail,KES,293.33,2.26
+2026-10-15,North Eastern,Garissa,Hagadera (Daadab),3254,0.01,40.37,oil and fats,Oil (vegetable),96,L,aggregate,Retail,KES,300.0,2.31
+2026-07-15,Rift Valley,Turkana,Kalobeyei (Village 3),3247,3.75,34.76,miscellaneous food,Salt,185,200 G,aggregate,Retail,KES,15.0,0.12
+2026-07-15,Rift Valley,Turkana,Kalobeyei (Village 1),3244,3.77,34.73,"meat, fish and eggs",Meat (beef),141,KG,aggregate,Retail,KES,700.0,5.41
+2026-08-15,Rift Valley,Turkana,Kalobeyei (Village 3),3247,3.75,34.76,cereals and tubers,Maize,51,KG,aggregate,Retail,KES,50.0,0.39
+2026-07-15,Rift Valley,Turkana,Kalobeyei (Village 1),3244,3.77,34.73,cereals and tubers,Sorghum,65,KG,aggregate,Retail,KES,60.0,0.46
+2026-09-15,Rift Valley,Turkana,Ethiopia (Kakuma),3253,3.72,34.85,milk and dairy,"Milk (camel, fresh)",817,L,aggregate,Retail,KES,200.0,1.54
+2026-07-15,Rift Valley,Turkana,Kalobeyei (Village 2),3246,3.76,34.75,cereals and tubers,Sorghum,65,KG,aggregate,Retail,KES,45.0,0.35
+2026-09-15,Rift Valley,Turkana,Mogadishu (Kakuma),3245,3.72,34.85,vegetables and fruits,Bananas,254,Unit,aggregate,Retail,KES,20.0,0.15
+2026-08-15,North Eastern,Garissa,Dagahaley (Daadab),3252,0.19,40.29,milk and dairy,"Milk (camel, fresh)",817,L,aggregate,Retail,KES,178.83,1.38
+2026-09-15,Rift Valley,Turkana,Ethiopia (Kakuma),3253,3.72,34.85,"meat, fish and eggs",Meat (beef),141,KG,aggregate,Retail,KES,666.67,5.14
+2026-10-15,Rift Valley,Turkana,Ethiopia (Kakuma),3253,3.72,34.85,cereals and tubers,Wheat flour,58,KG,aggregate,Retail,KES,100.0,0.77
+2026-07-15,North Eastern,Garissa,IFO (Daadab),3255,0.11,40.32,pulses and nuts,Beans (dry),262,KG,aggregate,Retail,KES,120.5,0.93
+2026-09-15,Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),185,0.52,35.28,cereals and tubers,"Maize (white, dry)",440,90 KG,actual,Wholesale,KES,3729.0,28.74
+2026-07-15,Rift Valley,Turkana,Kalobeyei (Village 2),3246,3.76,34.75,cereals and tubers,Rice,52,KG,aggregate,Retail,KES,116.67,0.9
+2026-09-15,Rift Valley,Turkana,Kakuma 3,3251,3.77,34.82,cereals and tubers,Maize,51,KG,aggregate,Retail,KES,65.0,0.5
+2026-07-15,North Eastern,Garissa,Hagadera (Daadab),3254,0.01,40.37,oil and fats,Oil (vegetable),96,L,aggregate,Retail,KES,300.0,2.32
+2026-08-15,Nairobi,Nairobi,Kangemi (Nairobi),4626,-1.27,36.74,cereals and tubers,Rice (aromatic),894,50 KG,actual,Wholesale,KES,7000.0,54.12
+2026-08-15,Rift Valley,Turkana,Ethiopia (Kakuma),3253,3.72,34.85,cereals and tubers,Maize flour,76,KG,aggregate,Retail,KES,86.67,0.67
+2026-08-15,Rift Valley,Turkana,Kakuma 4,3249,3.74,34.81,"meat, fish and eggs",Meat (goat),451,KG,aggregate,Retail,KES,800.0,6.18
+2026-07-15,Rift Valley,Turkana,HongKong (Kakuma),3250,3.75,34.84,cereals and tubers,Rice,52,KG,aggregate,Retail,KES,143.33,1.11
+2026-07-15,Rift Valley,Turkana,HongKong (Kakuma),3250,3.75,34.84,milk and dairy,"Milk (cow, fresh)",439,L,aggregate,Retail,KES,150.0,1.16
+2026-08-15,Rift Valley,Turkana,Kakuma 2,3248,3.75,34.82,cereals and tubers,Sorghum,65,KG,aggregate,Retail,KES,36.67,0.28
+2026-10-15,Rift Valley,Turkana,Mogadishu (Kakuma),3245,3.72,34.85,miscellaneous food,Salt,185,200 G,aggregate,Retail,KES,17.5,0.13
+2026-10-15,North Eastern,Garissa,Hagadera (Daadab),3254,0.01,40.37,cereals and tubers,Maize flour,76,KG,aggregate,Retail,KES,100.0,0.77
+2026-07-15,Rift Valley,Turkana,Ethiopia (Kakuma),3253,3.72,34.85,cereals and tubers,Sorghum,65,KG,aggregate,Retail,KES,43.33,0.34
+2026-10-15,Rift Valley,Turkana,Kakuma 3,3251,3.77,34.82,cereals and tubers,Wheat flour,58,KG,aggregate,Retail,KES,92.5,0.71
+2026-07-15,North Eastern,Garissa,Dagahaley (Daadab),3252,0.19,40.29,milk and dairy,"Milk (cow, fresh)",439,L,aggregate,Retail,KES,150.0,1.16
+2026-08-15,Rift Valley,Turkana,Kalobeyei (Village 2),3246,3.76,34.75,cereals and tubers,Maize,51,KG,aggregate,Retail,KES,55.93,0.43
+2026-08-15,Rift Valley,Turkana,Mogadishu (Kakuma),3245,3.72,34.85,miscellaneous food,Salt,185,200 G,aggregate,Retail,KES,14.44,0.11
+2026-08-15,Rift Valley,Turkana,Kakuma 2,3248,3.75,34.82,oil and fats,Oil (vegetable),96,L,aggregate,Retail,KES,287.04,2.22
+2026-08-15,North Eastern,Garissa,Hagadera (Daadab),3254,0.01,40.37,cereals and tubers,Potatoes (Irish),148,KG,aggregate,Retail,KES,69.57,0.54
+2026-07-15,Rift Valley,Turkana,HongKong (Kakuma),3250,3.75,34.84,pulses and nuts,Beans (dry),262,KG,aggregate,Retail,KES,143.33,1.11
+2026-09-15,Rift Valley,Turkana,Ethiopia (Kakuma),3253,3.72,34.85,vegetables and fruits,Bananas,254,Unit,aggregate,Retail,KES,20.0,0.15
+2026-10-15,Rift Valley,Turkana,Ethiopia (Kakuma),3253,3.72,34.85,milk and dairy,Milk (UHT),794,500 ML,aggregate,Retail,KES,80.0,0.62
+2026-07-15,Rift Valley,Turkana,Mogadishu (Kakuma),3245,3.72,34.85,milk and dairy,Milk (UHT),794,500 ML,aggregate,Retail,KES,75.0,0.58
+2026-08-15,Rift Valley,Turkana,Ethiopia (Kakuma),3253,3.72,34.85,"meat, fish and eggs",Meat (beef),141,KG,aggregate,Retail,KES,733.33,5.67
+2026-10-15,Rift Valley,Turkana,Kakuma 2,3248,3.75,34.82,milk and dairy,Milk (UHT),794,500 ML,aggregate,Retail,KES,110.0,0.85
+2026-09-15,Rift Valley,Turkana,Kalobeyei (Village 3),3247,3.75,34.76,"meat, fish and eggs",Meat (beef),141,KG,aggregate,Retail,KES,600.0,4.62
+2026-07-15,Rift Valley,Turkana,Kalobeyei (Village 3),3247,3.75,34.76,cereals and tubers,Wheat flour,58,KG,aggregate,Retail,KES,86.67,0.67
+2026-07-15,North Eastern,Garissa,Hagadera (Daadab),3254,0.01,40.37,"meat, fish and eggs",Meat (goat),451,KG,aggregate,Retail,KES,800.0,6.19
+2026-09-15,Rift Valley,Turkana,Mogadishu (Kakuma),3245,3.72,34.85,"meat, fish and eggs",Meat (goat),451,KG,aggregate,Retail,KES,766.67,5.91
+2026-08-15,Rift Valley,Turkana,Kakuma 2,3248,3.75,34.82,"meat, fish and eggs",Meat (beef),141,KG,aggregate,Retail,KES,700.0,5.41
+2026-08-15,Rift Valley,Turkana,Kalobeyei (Village 3),3247,3.75,34.76,miscellaneous food,Salt,185,200 G,aggregate,Retail,KES,11.11,0.086
+2026-07-15,Rift Valley,Turkana,Mogadishu (Kakuma),3245,3.72,34.85,cereals and tubers,Wheat flour,58,KG,aggregate,Retail,KES,93.33,0.72
+2026-08-15,Rift Valley,Turkana,Kakuma 3,3251,3.77,34.82,milk and dairy,"Milk (camel, fresh)",817,L,aggregate,Retail,KES,200.0,1.55
+2026-09-15,Rift Valley,Turkana,Kalobeyei (Village 3),3247,3.75,34.76,miscellaneous food,Sugar,97,KG,aggregate,Retail,KES,143.33,1.1
+2026-09-15,Rift Valley,Turkana,HongKong (Kakuma),3250,3.75,34.84,cereals and tubers,Wheat flour,58,KG,aggregate,Retail,KES,95.56,0.74
+2026-08-15,Rift Valley,Turkana,Kalobeyei (Village 2),3246,3.76,34.75,miscellaneous food,Salt,185,200 G,aggregate,Retail,KES,14.26,0.11
+2026-08-15,Nyanza,Kisumu,Kibuye (Kisumu),5671,-0.09,34.77,vegetables and fruits,Tomatoes,114,64 KG,actual,Wholesale,KES,9325.82,72.1
+2026-09-15,Rift Valley,Turkana,Kalobeyei (Village 2),3246,3.76,34.75,oil and fats,Oil (vegetable),96,L,aggregate,Retail,KES,283.33,2.18
+2026-07-15,North Eastern,Garissa,Hagadera (Daadab),3254,0.01,40.37,cereals and tubers,Wheat flour,58,KG,aggregate,Retail,KES,100.0,0.77
+2026-09-15,North Eastern,Garissa,Dagahaley (Daadab),3252,0.19,40.29,cereals and tubers,Rice,52,KG,aggregate,Retail,KES,117.65,0.91
+2026-07-15,Rift Valley,Turkana,Ethiopia (Kakuma),3253,3.72,34.85,"meat, fish and eggs",Meat (beef),141,KG,aggregate,Retail,KES,800.0,6.19
+2026-07-15,Rift Valley,Turkana,Kakuma 2,3248,3.75,34.82,miscellaneous food,Salt,185,200 G,aggregate,Retail,KES,15.0,0.12
+2026-09-15,Rift Valley,Turkana,HongKong (Kakuma),3250,3.75,34.84,miscellaneous food,Salt,185,200 G,aggregate,Retail,KES,13.89,0.11
+2026-10-15,Rift Valley,Turkana,Ethiopia (Kakuma),3253,3.72,34.85,miscellaneous food,Salt,185,200 G,aggregate,Retail,KES,15.0,0.12
+2026-07-15,Rift Valley,Turkana,Kalobeyei (Village 2),3246,3.76,34.75,pulses and nuts,Beans (dry),262,KG,aggregate,Retail,KES,100.0,0.77
+2026-10-15,Rift Valley,Turkana,Kalobeyei (Village 2),3246,3.76,34.75,"meat, fish and eggs",Meat (goat),451,KG,aggregate,Retail,KES,650.0,5.0
+2026-09-15,North Eastern,Garissa,IFO (Daadab),3255,0.11,40.32,pulses and nuts,Beans (dry),262,KG,aggregate,Retail,KES,128.94,0.99
+2026-09-15,Nairobi,Nairobi,Kangemi (Nairobi),4626,-1.27,36.74,vegetables and fruits,Onions (dry),892,13 KG,actual,Wholesale,KES,845.0,6.51
+2026-08-15,Rift Valley,Turkana,Kakuma 2,3248,3.75,34.82,miscellaneous food,Salt,185,200 G,aggregate,Retail,KES,15.0,0.12
+2026-10-15,Rift Valley,Turkana,Ethiopia (Kakuma),3253,3.72,34.85,"meat, fish and eggs",Meat (goat),451,KG,aggregate,Retail,KES,750.0,5.77
+2026-10-15,Rift Valley,Turkana,Kalobeyei (Village 3),3247,3.75,34.76,"meat, fish and eggs",Meat (beef),141,KG,aggregate,Retail,KES,600.0,4.62
+2026-09-15,North Eastern,Garissa,Hagadera (Daadab),3254,0.01,40.37,"meat, fish and eggs",Meat (camel),344,KG,aggregate,Retail,KES,600.0,4.62
+2026-08-15,Rift Valley,Turkana,HongKong (Kakuma),3250,3.75,34.84,miscellaneous food,Salt,185,200 G,aggregate,Retail,KES,13.33,0.1
+2026-09-15,Rift Valley,Turkana,Kalobeyei (Village 2),3246,3.76,34.75,"meat, fish and eggs",Meat (camel),344,KG,aggregate,Retail,KES,600.0,4.62
+2026-08-15,Rift Valley,Turkana,Kalobeyei (Village 2),3246,3.76,34.75,oil and fats,Oil (vegetable),96,L,aggregate,Retail,KES,298.52,2.31
+2026-08-15,North Eastern,Garissa,IFO (Daadab),3255,0.11,40.32,cereals and tubers,Maize,51,KG,aggregate,Retail,KES,66.77,0.52
+2026-07-15,Rift Valley,Turkana,Ethiopia (Kakuma),3253,3.72,34.85,milk and dairy,Milk (UHT),794,500 ML,aggregate,Retail,KES,80.0,0.62
+2026-09-15,Rift Valley,Turkana,Kalobeyei (Village 2),3246,3.76,34.75,pulses and nuts,Beans (dry),262,KG,aggregate,Retail,KES,130.0,1.0
+2026-07-15,Rift Valley,Turkana,HongKong (Kakuma),3250,3.75,34.84,cereals and tubers,Wheat flour,58,KG,aggregate,Retail,KES,90.0,0.7
+2026-10-15,North Eastern,Garissa,IFO (Daadab),3255,0.11,40.32,cereals and tubers,Sorghum,65,KG,aggregate,Retail,KES,100.0,0.77
+2026-08-15,Rift Valley,Turkana,Mogadishu (Kakuma),3245,3.72,34.85,cereals and tubers,Maize,51,KG,aggregate,Retail,KES,56.67,0.44
+2026-09-15,North Eastern,Garissa,IFO (Daadab),3255,0.11,40.32,cereals and tubers,Maize flour,76,KG,aggregate,Retail,KES,100.22,0.77
+2026-10-15,Rift Valley,Turkana,Kakuma 2,3248,3.75,34.82,"meat, fish and eggs",Meat (goat),451,KG,aggregate,Retail,KES,750.0,5.77
+2026-10-15,Rift Valley,Turkana,Kakuma 2,3248,3.75,34.82,cereals and tubers,Maize flour,76,KG,aggregate,Retail,KES,80.0,0.62
+2026-10-15,Rift Valley,Turkana,Kakuma 2,3248,3.75,34.82,cereals and tubers,Wheat flour,58,KG,aggregate,Retail,KES,93.33,0.72
+2026-08-15,North Eastern,Garissa,Dagahaley (Daadab),3252,0.19,40.29,cereals and tubers,Potatoes (Irish),148,KG,aggregate,Retail,KES,60.0,0.46
+2026-07-15,North Eastern,Garissa,IFO (Daadab),3255,0.11,40.32,miscellaneous food,Sugar,97,KG,aggregate,Retail,KES,120.0,0.93
+2026-09-15,Rift Valley,Turkana,Kakuma 3,3251,3.77,34.82,cereals and tubers,Maize flour,76,KG,aggregate,Retail,KES,82.86,0.64
+2026-10-15,Rift Valley,Turkana,HongKong (Kakuma),3250,3.75,34.84,"meat, fish and eggs",Meat (goat),451,KG,aggregate,Retail,KES,700.0,5.39
+2026-07-15,Nairobi,Nairobi,Kangemi (Nairobi),4626,-1.27,36.74,pulses and nuts,Cowpeas,218,90 KG,actual,Wholesale,KES,7200.0,55.68
+2026-10-15,North Eastern,Garissa,IFO (Daadab),3255,0.11,40.32,cereals and tubers,Maize flour,76,KG,aggregate,Retail,KES,100.0,0.77
+2026-08-15,Nairobi,Nairobi,Kangemi (Nairobi),4626,-1.27,36.74,cereals and tubers,"Maize (white, dry)",440,90 KG,actual,Wholesale,KES,3829.8,29.61
+2026-10-15,Rift Valley,Turkana,Kalobeyei (Village 3),3247,3.75,34.76,cereals and tubers,Rice,52,KG,aggregate,Retail,KES,120.0,0.92
+2026-08-15,North Eastern,Garissa,Hagadera (Daadab),3254,0.01,40.37,cereals and tubers,Rice,52,KG,aggregate,Retail,KES,103.85,0.8
+2026-08-15,North Eastern,Garissa,IFO (Daadab),3255,0.11,40.32,cereals and tubers,Rice,52,KG,aggregate,Retail,KES,119.72,0.93
+2026-10-15,Rift Valley,Turkana,Kalobeyei (Village 3),3247,3.75,34.76,"meat, fish and eggs",Meat (goat),451,KG,aggregate,Retail,KES,800.0,6.16
+2026-08-15,North Eastern,Garissa,IFO (Daadab),3255,0.11,40.32,milk and dairy,Milk (UHT),794,500 ML,aggregate,Retail,KES,98.59,0.76
+2026-09-15,North Eastern,Garissa,IFO (Daadab),3255,0.11,40.32,"meat, fish and eggs",Meat (camel),344,KG,aggregate,Retail,KES,606.43,4.67
+2026-08-15,Rift Valley,Turkana,Ethiopia (Kakuma),3253,3.72,34.85,miscellaneous food,Sugar,97,KG,aggregate,Retail,KES,160.56,1.24
+2026-08-15,Rift Valley,Turkana,Kalobeyei (Village 3),3247,3.75,34.76,vegetables and fruits,Bananas,254,Unit,aggregate,Retail,KES,20.0,0.15
+2026-09-15,Rift Valley,Turkana,HongKong (Kakuma),3250,3.75,34.84,milk and dairy,"Milk (cow, fresh)",439,L,aggregate,Retail,KES,100.0,0.77
+2026-09-15,Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),185,0.52,35.28,vegetables and fruits,Kale,796,50 KG,actual,Wholesale,KES,1958.0,15.09
+2026-08-15,North Eastern,Garissa,Dagahaley (Daadab),3252,0.19,40.29,oil and fats,Oil (vegetable),96,L,aggregate,Retail,KES,273.1,2.11
+2026-07-15,Nyanza,Kisumu,Kibuye (Kisumu),5671,-0.09,34.77,cereals and tubers,"Maize (white, dry)",440,90 KG,actual,Wholesale,KES,5249.93,40.6
+2026-08-15,Rift Valley,Turkana,Kakuma 3,3251,3.77,34.82,miscellaneous food,Salt,185,200 G,aggregate,Retail,KES,14.35,0.11
+2026-10-15,Rift Valley,Turkana,Kalobeyei (Village 3),3247,3.75,34.76,oil and fats,Oil (vegetable),96,L,aggregate,Retail,KES,300.0,2.31
+2026-09-15,Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),185,0.52,35.28,pulses and nuts,Beans (rosecoco),897,90 KG,actual,Wholesale,KES,14400.0,110.98
+2026-08-15,Rift Valley,Turkana,Ethiopia (Kakuma),3253,3.72,34.85,pulses and nuts,Beans (dry),262,KG,aggregate,Retail,KES,119.44,0.92
+2026-10-15,Rift Valley,Turkana,Kakuma 3,3251,3.77,34.82,cereals and tubers,Maize,51,KG,aggregate,Retail,KES,65.0,0.5
+2026-07-15,Rift Valley,Turkana,Mogadishu (Kakuma),3245,3.72,34.85,miscellaneous food,Salt,185,200 G,aggregate,Retail,KES,15.0,0.12
+2026-07-15,North Eastern,Garissa,Hagadera (Daadab),3254,0.01,40.37,vegetables and fruits,Bananas,254,Unit,aggregate,Retail,KES,10.0,0.077
+2026-07-15,Rift Valley,Turkana,Kakuma 2,3248,3.75,34.82,vegetables and fruits,Bananas,254,Unit,aggregate,Retail,KES,20.0,0.15
+2026-09-15,Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),185,0.52,35.28,vegetables and fruits,Cabbage,181,126 KG,actual,Wholesale,KES,4410.0,33.99
+2026-07-15,Rift Valley,Turkana,Kalobeyei (Village 3),3247,3.75,34.76,milk and dairy,Milk (UHT),794,500 ML,aggregate,Retail,KES,80.0,0.62
+2026-10-15,Rift Valley,Turkana,Ethiopia (Kakuma),3253,3.72,34.85,miscellaneous food,Sugar,97,KG,aggregate,Retail,KES,150.0,1.15
+2026-09-15,North Eastern,Garissa,Dagahaley (Daadab),3252,0.19,40.29,milk and dairy,"Milk (camel, fresh)",817,L,aggregate,Retail,KES,150.95,1.16
+2026-07-15,Rift Valley,Turkana,Kakuma 4,3249,3.74,34.81,"meat, fish and eggs",Meat (beef),141,KG,aggregate,Retail,KES,780.0,6.03
+2026-08-15,Rift Valley,Turkana,Kalobeyei (Village 3),3247,3.75,34.76,cereals and tubers,Maize flour,76,KG,aggregate,Retail,KES,80.74,0.62
+2026-09-15,Rift Valley,Turkana,Ethiopia (Kakuma),3253,3.72,34.85,cereals and tubers,Maize flour,76,KG,aggregate,Retail,KES,83.33,0.64
+2026-09-15,Rift Valley,Turkana,Ethiopia (Kakuma),3253,3.72,34.85,"meat, fish and eggs",Meat (goat),451,KG,aggregate,Retail,KES,766.67,5.91
+2026-08-15,Rift Valley,Turkana,Kalobeyei (Village 1),3244,3.77,34.73,vegetables and fruits,Bananas,254,Unit,aggregate,Retail,KES,20.0,0.15
+2026-09-15,Rift Valley,Turkana,HongKong (Kakuma),3250,3.75,34.84,cereals and tubers,Potatoes (Irish),148,KG,aggregate,Retail,KES,100.0,0.77
+2026-09-15,Nyanza,Kisumu,Kibuye (Kisumu),5671,-0.09,34.77,cereals and tubers,"Potatoes (Irish, white)",891,50 KG,actual,Wholesale,KES,6700.0,51.64
+2026-10-15,North Eastern,Garissa,IFO (Daadab),3255,0.11,40.32,vegetables and fruits,Bananas,254,Unit,aggregate,Retail,KES,5.0,0.038
+2026-07-15,Rift Valley,Turkana,Ethiopia (Kakuma),3253,3.72,34.85,oil and fats,Oil (vegetable),96,L,aggregate,Retail,KES,293.33,2.27
+2026-09-15,Rift Valley,Turkana,HongKong (Kakuma),3250,3.75,34.84,milk and dairy,Milk (UHT),794,500 ML,aggregate,Retail,KES,93.33,0.72
+2026-08-15,Rift Valley,Turkana,Kalobeyei (Village 3),3247,3.75,34.76,pulses and nuts,Beans (dry),262,KG,aggregate,Retail,KES,115.93,0.9
+2026-08-15,Rift Valley,Turkana,Kalobeyei (Village 1),3244,3.77,34.73,"meat, fish and eggs",Meat (goat),451,KG,aggregate,Retail,KES,700.0,5.41
+2026-08-15,Rift Valley,Turkana,Ethiopia (Kakuma),3253,3.72,34.85,miscellaneous food,Salt,185,200 G,aggregate,Retail,KES,15.0,0.12
+2026-10-15,Rift Valley,Turkana,HongKong (Kakuma),3250,3.75,34.84,"meat, fish and eggs",Meat (beef),141,KG,aggregate,Retail,KES,600.0,4.62
+2026-07-15,North Eastern,Garissa,IFO (Daadab),3255,0.11,40.32,"meat, fish and eggs",Meat (camel),344,KG,aggregate,Retail,KES,640.97,4.96
+2026-10-15,Rift Valley,Turkana,Mogadishu (Kakuma),3245,3.72,34.85,cereals and tubers,Maize flour,76,KG,aggregate,Retail,KES,90.0,0.69
+2026-08-15,Rift Valley,Turkana,Kalobeyei (Village 2),3246,3.76,34.75,pulses and nuts,Beans (dry),262,KG,aggregate,Retail,KES,127.22,0.98
+2026-07-15,North Eastern,Garissa,Hagadera (Daadab),3254,0.01,40.37,"meat, fish and eggs",Meat (camel),344,KG,aggregate,Retail,KES,600.0,4.64
+2026-08-15,North Eastern,Garissa,IFO (Daadab),3255,0.11,40.32,miscellaneous food,Sugar,97,KG,aggregate,Retail,KES,120.0,0.93
+2026-09-15,Rift Valley,Turkana,Kakuma 2,3248,3.75,34.82,miscellaneous food,Salt,185,200 G,aggregate,Retail,KES,15.0,0.12
+2026-07-15,North Eastern,Garissa,IFO (Daadab),3255,0.11,40.32,milk and dairy,Milk (UHT),794,500 ML,aggregate,Retail,KES,100.0,0.77
+2026-09-15,Rift Valley,Turkana,Ethiopia (Kakuma),3253,3.72,34.85,cereals and tubers,Wheat flour,58,KG,aggregate,Retail,KES,93.33,0.72
+2026-08-15,Rift Valley,Turkana,Kalobeyei (Village 1),3244,3.77,34.73,miscellaneous food,Salt,185,200 G,aggregate,Retail,KES,12.41,0.096
+2026-10-15,North Eastern,Garissa,Hagadera (Daadab),3254,0.01,40.37,miscellaneous food,Salt,185,200 G,aggregate,Retail,KES,10.0,0.077
+2026-07-15,North Eastern,Garissa,IFO (Daadab),3255,0.11,40.32,cereals and tubers,Maize,51,KG,aggregate,Retail,KES,68.13,0.53
+2026-08-15,Rift Valley,Turkana,Mogadishu (Kakuma),3245,3.72,34.85,"meat, fish and eggs",Meat (beef),141,KG,aggregate,Retail,KES,650.0,5.03
+2026-10-15,Rift Valley,Turkana,Kakuma 2,3248,3.75,34.82,cereals and tubers,Rice,52,KG,aggregate,Retail,KES,120.0,0.92
+2026-07-15,Rift Valley,Turkana,Kakuma 2,3248,3.75,34.82,cereals and tubers,Wheat flour,58,KG,aggregate,Retail,KES,83.33,0.64
+2026-07-15,Nairobi,Nairobi,Kangemi (Nairobi),4626,-1.27,36.74,vegetables and fruits,Tomatoes,114,64 KG,actual,Wholesale,KES,2880.0,22.27
+2026-09-15,Rift Valley,Turkana,Kakuma 3,3251,3.77,34.82,oil and fats,Oil (vegetable),96,L,aggregate,Retail,KES,282.22,2.18
+2026-09-15,Rift Valley,Turkana,Kalobeyei (Village 2),3246,3.76,34.75,cereals and tubers,Sorghum,65,KG,aggregate,Retail,KES,80.0,0.62
+2026-08-15,Rift Valley,Turkana,Mogadishu (Kakuma),3245,3.72,34.85,milk and dairy,"Milk (camel, fresh)",817,L,aggregate,Retail,KES,200.0,1.55
+2026-09-15,Rift Valley,Turkana,Mogadishu (Kakuma),3245,3.72,34.85,cereals and tubers,Sorghum,65,KG,aggregate,Retail,KES,53.33,0.41
+2026-08-15,Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),185,0.52,35.28,cereals and tubers,"Potatoes (Irish, white)",891,50 KG,actual,Wholesale,KES,3250.0,25.13
+2026-08-15,Rift Valley,Turkana,Mogadishu (Kakuma),3245,3.72,34.85,"meat, fish and eggs",Meat (camel),344,KG,aggregate,Retail,KES,600.0,4.64
+2026-08-15,Rift Valley,Turkana,Kalobeyei (Village 3),3247,3.75,34.76,milk and dairy,Milk (UHT),794,500 ML,aggregate,Retail,KES,80.0,0.62
+2026-07-15,Rift Valley,Turkana,Kakuma 2,3248,3.75,34.82,cereals and tubers,Sorghum,65,KG,aggregate,Retail,KES,36.67,0.28
+2026-10-15,North Eastern,Garissa,Hagadera (Daadab),3254,0.01,40.37,cereals and tubers,Rice,52,KG,aggregate,Retail,KES,100.0,0.77
+2026-07-15,North Eastern,Garissa,IFO (Daadab),3255,0.11,40.32,milk and dairy,"Milk (cow, fresh)",439,L,aggregate,Retail,KES,154.81,1.2
+2026-10-15,North Eastern,Garissa,IFO (Daadab),3255,0.11,40.32,pulses and nuts,Beans (dry),262,KG,aggregate,Retail,KES,141.82,1.09
+2026-07-15,North Eastern,Garissa,Hagadera (Daadab),3254,0.01,40.37,cereals and tubers,Potatoes (Irish),148,KG,aggregate,Retail,KES,64.14,0.5
+2026-07-15,Rift Valley,Turkana,Kalobeyei (Village 3),3247,3.75,34.76,cereals and tubers,Maize,51,KG,aggregate,Retail,KES,50.0,0.39
+2026-09-15,North Eastern,Garissa,IFO (Daadab),3255,0.11,40.32,miscellaneous food,Sugar,97,KG,aggregate,Retail,KES,120.31,0.93
+2026-09-15,Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),185,0.52,35.28,vegetables and fruits,Tomatoes,114,64 KG,actual,Wholesale,KES,5248.0,40.45
+2026-08-15,Rift Valley,Turkana,Kakuma 2,3248,3.75,34.82,pulses and nuts,Beans (dry),262,KG,aggregate,Retail,KES,120.0,0.93
+2026-08-15,Rift Valley,Turkana,Kalobeyei (Village 2),3246,3.76,34.75,cereals and tubers,Wheat flour,58,KG,aggregate,Retail,KES,83.33,0.64
+2026-07-15,North Eastern,Garissa,IFO (Daadab),3255,0.11,40.32,oil and fats,Oil (vegetable),96,L,aggregate,Retail,KES,260.96,2.02
+2026-07-15,Rift Valley,Turkana,Kakuma 3,3251,3.77,34.82,milk and dairy,Milk (UHT),794,500 ML,aggregate,Retail,KES,77.5,0.6
+2026-10-15,Rift Valley,Turkana,Kalobeyei (Village 3),3247,3.75,34.76,miscellaneous food,Sugar,97,KG,aggregate,Retail,KES,143.33,1.1
+2026-08-15,Rift Valley,Turkana,HongKong (Kakuma),3250,3.75,34.84,pulses and nuts,Beans (dry),262,KG,aggregate,Retail,KES,145.56,1.13
+2026-09-15,Rift Valley,Turkana,Mogadishu (Kakuma),3245,3.72,34.85,milk and dairy,"Milk (camel, fresh)",817,L,aggregate,Retail,KES,200.0,1.54
+2026-07-15,Rift Valley,Turkana,Kalobeyei (Village 1),3244,3.77,34.73,cereals and tubers,Wheat flour,58,KG,aggregate,Retail,KES,96.67,0.75
+2026-09-15,North Eastern,Garissa,Dagahaley (Daadab),3252,0.19,40.29,cereals and tubers,Wheat flour,58,KG,aggregate,Retail,KES,100.0,0.77
+2026-08-15,Rift Valley,Turkana,Kakuma 3,3251,3.77,34.82,miscellaneous food,Sugar,97,KG,aggregate,Retail,KES,150.02,1.16
+2026-07-15,Rift Valley,Turkana,Mogadishu (Kakuma),3245,3.72,34.85,cereals and tubers,Maize,51,KG,aggregate,Retail,KES,55.0,0.43
+2026-09-15,North Eastern,Garissa,Hagadera (Daadab),3254,0.01,40.37,cereals and tubers,Maize,51,KG,aggregate,Retail,KES,56.5,0.44
+2026-10-15,Rift Valley,Turkana,HongKong (Kakuma),3250,3.75,34.84,cereals and tubers,Sorghum,65,KG,aggregate,Retail,KES,40.0,0.31
+2026-08-15,Rift Valley,Turkana,Kakuma 2,3248,3.75,34.82,"meat, fish and eggs",Meat (camel),344,KG,aggregate,Retail,KES,600.0,4.64
+2026-09-15,Rift Valley,Turkana,Kakuma 3,3251,3.77,34.82,pulses and nuts,Beans (dry),262,KG,aggregate,Retail,KES,141.25,1.09
+2026-08-15,Rift Valley,Turkana,HongKong (Kakuma),3250,3.75,34.84,milk and dairy,"Milk (cow, fresh)",439,L,aggregate,Retail,KES,133.33,1.03
+2026-09-15,Rift Valley,Turkana,HongKong (Kakuma),3250,3.75,34.84,cereals and tubers,Sorghum,65,KG,aggregate,Retail,KES,53.33,0.41
+2026-08-15,Rift Valley,Turkana,Kakuma 4,3249,3.74,34.81,cereals and tubers,Rice,52,KG,aggregate,Retail,KES,126.67,0.98
+2026-07-15,Rift Valley,Turkana,HongKong (Kakuma),3250,3.75,34.84,"meat, fish and eggs",Meat (beef),141,KG,aggregate,Retail,KES,800.0,6.19
+2026-08-15,Rift Valley,Turkana,Kalobeyei (Village 2),3246,3.76,34.75,milk and dairy,Milk (UHT),794,500 ML,aggregate,Retail,KES,76.67,0.59
+2026-07-15,Rift Valley,Turkana,Kalobeyei (Village 3),3247,3.75,34.76,oil and fats,Oil (vegetable),96,L,aggregate,Retail,KES,310.0,2.4
+2026-07-15,Rift Valley,Turkana,Kakuma 3,3251,3.77,34.82,pulses and nuts,Beans (dry),262,KG,aggregate,Retail,KES,134.44,1.04
+2026-07-15,Rift Valley,Turkana,Kalobeyei (Village 1),3244,3.77,34.73,cereals and tubers,Maize flour,76,KG,aggregate,Retail,KES,80.0,0.62
+2026-08-15,Nyanza,Kisumu,Kibuye (Kisumu),5671,-0.09,34.77,cereals and tubers,"Potatoes (Irish, white)",891,50 KG,actual,Wholesale,KES,4740.0,36.64
+2026-10-15,Rift Valley,Turkana,Mogadishu (Kakuma),3245,3.72,34.85,cereals and tubers,Wheat flour,58,KG,aggregate,Retail,KES,100.0,0.77
+2026-10-15,Rift Valley,Turkana,Kalobeyei (Village 2),3246,3.76,34.75,pulses and nuts,Beans (dry),262,KG,aggregate,Retail,KES,130.0,1.0
+2026-08-15,Rift Valley,Turkana,Kalobeyei (Village 3),3247,3.75,34.76,cereals and tubers,Rice,52,KG,aggregate,Retail,KES,116.3,0.9
+2026-09-15,Rift Valley,Turkana,Ethiopia (Kakuma),3253,3.72,34.85,pulses and nuts,Beans (dry),262,KG,aggregate,Retail,KES,133.33,1.03
+2026-07-15,Rift Valley,Turkana,Kakuma 2,3248,3.75,34.82,miscellaneous food,Sugar,97,KG,aggregate,Retail,KES,160.0,1.24
+2026-09-15,Rift Valley,Turkana,HongKong (Kakuma),3250,3.75,34.84,"meat, fish and eggs",Meat (beef),141,KG,aggregate,Retail,KES,688.89,5.31
+2026-07-15,Rift Valley,Turkana,HongKong (Kakuma),3250,3.75,34.84,cereals and tubers,Sorghum,65,KG,aggregate,Retail,KES,30.0,0.23
+2026-07-15,North Eastern,Garissa,Dagahaley (Daadab),3252,0.19,40.29,oil and fats,Oil (vegetable),96,L,aggregate,Retail,KES,254.28,1.97
+2026-09-15,North Eastern,Garissa,Hagadera (Daadab),3254,0.01,40.37,vegetables and fruits,Bananas,254,Unit,aggregate,Retail,KES,10.0,0.077
+2026-09-15,North Eastern,Garissa,Dagahaley (Daadab),3252,0.19,40.29,cereals and tubers,Maize flour,76,KG,aggregate,Retail,KES,100.0,0.77
+2026-10-15,Rift Valley,Turkana,Kalobeyei (Village 2),3246,3.76,34.75,oil and fats,Oil (vegetable),96,L,aggregate,Retail,KES,283.33,2.18
+2026-07-15,Rift Valley,Turkana,Kakuma 4,3249,3.74,34.81,cereals and tubers,Wheat flour,58,KG,aggregate,Retail,KES,90.0,0.7
+2026-09-15,Rift Valley,Turkana,Kalobeyei (Village 3),3247,3.75,34.76,"meat, fish and eggs",Meat (goat),451,KG,aggregate,Retail,KES,800.0,6.17
+2026-10-15,North Eastern,Garissa,Hagadera (Daadab),3254,0.01,40.37,cereals and tubers,Wheat flour,58,KG,aggregate,Retail,KES,100.0,0.77
+2026-07-15,Rift Valley,Turkana,Ethiopia (Kakuma),3253,3.72,34.85,vegetables and fruits,Bananas,254,Unit,aggregate,Retail,KES,15.0,0.12
+2026-08-15,Rift Valley,Turkana,Kakuma 4,3249,3.74,34.81,cereals and tubers,Maize flour,76,KG,aggregate,Retail,KES,81.11,0.63
+2026-07-15,Rift Valley,Turkana,Kakuma 3,3251,3.77,34.82,cereals and tubers,Rice,52,KG,aggregate,Retail,KES,160.0,1.24
+2026-09-15,North Eastern,Garissa,Hagadera (Daadab),3254,0.01,40.37,cereals and tubers,Potatoes (Irish),148,KG,aggregate,Retail,KES,73.31,0.56
+2026-08-15,Rift Valley,Turkana,Kakuma 3,3251,3.77,34.82,milk and dairy,"Milk (cow, fresh)",439,L,aggregate,Retail,KES,165.0,1.28
+2026-09-15,Rift Valley,Turkana,Kalobeyei (Village 2),3246,3.76,34.75,cereals and tubers,Potatoes (Irish),148,KG,aggregate,Retail,KES,50.0,0.39
+2026-08-15,Rift Valley,Turkana,Kalobeyei (Village 1),3244,3.77,34.73,cereals and tubers,Rice,52,KG,aggregate,Retail,KES,114.44,0.88
+2026-07-15,Rift Valley,Turkana,HongKong (Kakuma),3250,3.75,34.84,oil and fats,Oil (vegetable),96,L,aggregate,Retail,KES,293.33,2.27
+2026-09-15,Rift Valley,Turkana,Kakuma 2,3248,3.75,34.82,"meat, fish and eggs",Meat (beef),141,KG,aggregate,Retail,KES,725.0,5.59
+2026-09-15,Rift Valley,Turkana,Kalobeyei (Village 2),3246,3.76,34.75,"meat, fish and eggs",Meat (goat),451,KG,aggregate,Retail,KES,650.0,5.01
+2026-08-15,Rift Valley,Turkana,Kalobeyei (Village 3),3247,3.75,34.76,cereals and tubers,Potatoes (Irish),148,KG,aggregate,Retail,KES,100.0,0.77
+2026-10-15,Rift Valley,Turkana,Kakuma 2,3248,3.75,34.82,"meat, fish and eggs",Meat (beef),141,KG,aggregate,Retail,KES,725.0,5.58
+2026-10-15,Rift Valley,Turkana,Kalobeyei (Village 2),3246,3.76,34.75,"meat, fish and eggs",Meat (beef),141,KG,aggregate,Retail,KES,700.0,5.39
+2026-09-15,North Eastern,Garissa,Hagadera (Daadab),3254,0.01,40.37,cereals and tubers,Rice,52,KG,aggregate,Retail,KES,100.0,0.77
+2026-09-15,North Eastern,Garissa,IFO (Daadab),3255,0.11,40.32,cereals and tubers,Wheat flour,58,KG,aggregate,Retail,KES,100.0,0.77
+2026-07-15,Rift Valley,Turkana,Kakuma 4,3249,3.74,34.81,cereals and tubers,Maize flour,76,KG,aggregate,Retail,KES,80.0,0.62
+2026-09-15,Rift Valley,Turkana,Mogadishu (Kakuma),3245,3.72,34.85,cereals and tubers,Potatoes (Irish),148,KG,aggregate,Retail,KES,100.0,0.77
+2026-07-15,Nyanza,Kisumu,Kibuye (Kisumu),5671,-0.09,34.77,cereals and tubers,"Potatoes (Irish, white)",891,50 KG,actual,Wholesale,KES,4580.0,35.42
+2026-10-15,Rift Valley,Turkana,Kalobeyei (Village 3),3247,3.75,34.76,cereals and tubers,Sorghum,65,KG,aggregate,Retail,KES,45.0,0.35
+2026-08-15,North Eastern,Garissa,IFO (Daadab),3255,0.11,40.32,cereals and tubers,Sorghum,65,KG,aggregate,Retail,KES,100.36,0.78
+2026-10-15,North Eastern,Garissa,IFO (Daadab),3255,0.11,40.32,cereals and tubers,Maize,51,KG,aggregate,Retail,KES,70.0,0.54
+2026-07-15,North Eastern,Garissa,Hagadera (Daadab),3254,0.01,40.37,cereals and tubers,Rice,52,KG,aggregate,Retail,KES,100.0,0.77
+2026-08-15,North Eastern,Garissa,Hagadera (Daadab),3254,0.01,40.37,vegetables and fruits,Bananas,254,Unit,aggregate,Retail,KES,10.0,0.077
+2026-09-15,Rift Valley,Turkana,Mogadishu (Kakuma),3245,3.72,34.85,pulses and nuts,Beans (dry),262,KG,aggregate,Retail,KES,138.89,1.07
+2026-07-15,Rift Valley,Turkana,Mogadishu (Kakuma),3245,3.72,34.85,oil and fats,Oil (vegetable),96,L,aggregate,Retail,KES,300.0,2.32
+2026-09-15,Rift Valley,Turkana,Kakuma 2,3248,3.75,34.82,miscellaneous food,Sugar,97,KG,aggregate,Retail,KES,156.67,1.21
+2026-08-15,Rift Valley,Turkana,Kakuma 4,3249,3.74,34.81,cereals and tubers,Maize,51,KG,aggregate,Retail,KES,52.04,0.4
+2026-07-15,Nairobi,Nairobi,Kangemi (Nairobi),4626,-1.27,36.74,pulses and nuts,Beans (rosecoco),897,90 KG,actual,Wholesale,KES,8399.7,64.96
+2026-09-15,North Eastern,Garissa,IFO (Daadab),3255,0.11,40.32,cereals and tubers,Rice,52,KG,aggregate,Retail,KES,115.25,0.89
+2026-09-15,Rift Valley,Turkana,Mogadishu (Kakuma),3245,3.72,34.85,cereals and tubers,Wheat flour,58,KG,aggregate,Retail,KES,95.56,0.74
+2026-07-15,North Eastern,Garissa,Dagahaley (Daadab),3252,0.19,40.29,cereals and tubers,Wheat flour,58,KG,aggregate,Retail,KES,100.0,0.77
+2026-08-15,North Eastern,Garissa,Hagadera (Daadab),3254,0.01,40.37,cereals and tubers,Wheat flour,58,KG,aggregate,Retail,KES,101.9,0.79
+2026-08-15,Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),185,0.52,35.28,cereals and tubers,"Maize (white, dry)",440,90 KG,actual,Wholesale,KES,6300.0,48.71
+2026-07-15,Rift Valley,Turkana,Kalobeyei (Village 1),3244,3.77,34.73,pulses and nuts,Beans (dry),262,KG,aggregate,Retail,KES,106.67,0.82
+2026-09-15,North Eastern,Garissa,IFO (Daadab),3255,0.11,40.32,cereals and tubers,Sorghum,65,KG,aggregate,Retail,KES,100.0,0.77
+2026-09-15,North Eastern,Garissa,IFO (Daadab),3255,0.11,40.32,milk and dairy,"Milk (cow, fresh)",439,L,aggregate,Retail,KES,180.0,1.39
+2026-09-15,Rift Valley,Turkana,Kakuma 2,3248,3.75,34.82,cereals and tubers,Rice,52,KG,aggregate,Retail,KES,120.0,0.92
+2026-10-15,North Eastern,Garissa,Hagadera (Daadab),3254,0.01,40.37,pulses and nuts,Beans (dry),262,KG,aggregate,Retail,KES,140.0,1.08
+2026-09-15,Rift Valley,Turkana,HongKong (Kakuma),3250,3.75,34.84,cereals and tubers,Rice,52,KG,aggregate,Retail,KES,123.33,0.95
+2026-09-15,North Eastern,Garissa,Hagadera (Daadab),3254,0.01,40.37,cereals and tubers,Wheat flour,58,KG,aggregate,Retail,KES,99.61,0.77
+2026-07-15,Rift Valley,Turkana,Ethiopia (Kakuma),3253,3.72,34.85,miscellaneous food,Salt,185,200 G,aggregate,Retail,KES,15.0,0.12
+2026-08-15,North Eastern,Garissa,Dagahaley (Daadab),3252,0.19,40.29,milk and dairy,Milk (UHT),794,500 ML,aggregate,Retail,KES,42.14,0.33
+2026-08-15,Rift Valley,Turkana,Ethiopia (Kakuma),3253,3.72,34.85,milk and dairy,"Milk (camel, fresh)",817,L,aggregate,Retail,KES,200.0,1.55
+2026-08-15,Rift Valley,Turkana,Mogadishu (Kakuma),3245,3.72,34.85,cereals and tubers,Maize flour,76,KG,aggregate,Retail,KES,83.33,0.64
+2026-07-15,Rift Valley,Turkana,HongKong (Kakuma),3250,3.75,34.84,milk and dairy,Milk (UHT),794,500 ML,aggregate,Retail,KES,86.67,0.67
+2026-07-15,Rift Valley,Turkana,Kakuma 2,3248,3.75,34.82,cereals and tubers,Potatoes (Irish),148,KG,aggregate,Retail,KES,90.0,0.7
+2026-09-15,Rift Valley,Turkana,Kalobeyei (Village 3),3247,3.75,34.76,cereals and tubers,Maize flour,76,KG,aggregate,Retail,KES,80.0,0.62
+2026-10-15,Rift Valley,Turkana,Ethiopia (Kakuma),3253,3.72,34.85,oil and fats,Oil (vegetable),96,L,aggregate,Retail,KES,300.0,2.31
+2026-08-15,Rift Valley,Turkana,Kalobeyei (Village 1),3244,3.77,34.73,cereals and tubers,Potatoes (Irish),148,KG,aggregate,Retail,KES,120.0,0.93
+2026-09-15,Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),185,0.52,35.28,cereals and tubers,"Potatoes (Irish, white)",891,50 KG,actual,Wholesale,KES,3748.0,28.89
+2026-08-15,Rift Valley,Turkana,Mogadishu (Kakuma),3245,3.72,34.85,cereals and tubers,Sorghum,65,KG,aggregate,Retail,KES,46.67,0.36
+2026-07-15,Rift Valley,Turkana,Mogadishu (Kakuma),3245,3.72,34.85,pulses and nuts,Beans (dry),262,KG,aggregate,Retail,KES,113.33,0.88
+2026-08-15,North Eastern,Garissa,IFO (Daadab),3255,0.11,40.32,miscellaneous food,Salt,185,200 G,aggregate,Retail,KES,17.32,0.13
+2026-08-15,North Eastern,Garissa,Hagadera (Daadab),3254,0.01,40.37,cereals and tubers,Maize,51,KG,aggregate,Retail,KES,60.0,0.46
+2026-08-15,North Eastern,Garissa,IFO (Daadab),3255,0.11,40.32,oil and fats,Oil (vegetable),96,L,aggregate,Retail,KES,263.05,2.03
+2026-08-15,Rift Valley,Turkana,Mogadishu (Kakuma),3245,3.72,34.85,oil and fats,Oil (vegetable),96,L,aggregate,Retail,KES,295.56,2.28
+2026-09-15,North Eastern,Garissa,IFO (Daadab),3255,0.11,40.32,milk and dairy,"Milk (camel, fresh)",817,L,aggregate,Retail,KES,181.41,1.4
+2026-08-15,Rift Valley,Turkana,Ethiopia (Kakuma),3253,3.72,34.85,cereals and tubers,Maize,51,KG,aggregate,Retail,KES,56.11,0.43
+2026-07-15,Rift Valley,Turkana,Kakuma 2,3248,3.75,34.82,oil and fats,Oil (vegetable),96,L,aggregate,Retail,KES,300.0,2.32
+2026-10-15,North Eastern,Garissa,IFO (Daadab),3255,0.11,40.32,milk and dairy,"Milk (camel, fresh)",817,L,aggregate,Retail,KES,182.22,1.4
