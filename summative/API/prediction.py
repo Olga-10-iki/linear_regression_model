@@ -105,7 +105,7 @@ app = FastAPI(
 # - allow_credentials=False: the API uses no cookies or auth headers, so browsers never need to send credentials.
 # The Flutter mobile app is not a browser, so CORS does not apply to it — it can call the API from any device.
 ALLOWED_ORIGINS = [
-    "https://kenya-food-price-api.onrender.com",   # <- replace with your Render service URL
+    "",   # <- replace with your Render service URL
     "http://localhost:5000",                         # flutter run -d chrome --web-port 5000
     "http://127.0.0.1:5000",
     "http://localhost:8000",                         # local uvicorn (Swagger UI)

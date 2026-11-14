@@ -5,7 +5,7 @@ import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 
 /// Public URL of the FastAPI service on Render (replace with your own service URL).
-const String apiBaseUrl = 'https://kenya-food-price-api.onrender.com';
+const String apiBaseUrl = '';
 
 void main() => runApp(const FoodPriceApp());
 
