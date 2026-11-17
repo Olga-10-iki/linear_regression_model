@@ -105,7 +105,7 @@ app = FastAPI(
 # - allow_credentials=False: the API uses no cookies or auth headers, so browsers never need to send credentials.
 # The Flutter mobile app is not a browser, so CORS does not apply to it — it can call the API from any device.
 ALLOWED_ORIGINS = [
-    "",   # <- replace with your Render service URL
+    "https://kenya-food-price-api.onrender.com",   # this service's Render URL
     "http://localhost:5000",                         # flutter run -d chrome --web-port 5000
     "http://127.0.0.1:5000",
     "http://localhost:8000",                         # local uvicorn (Swagger UI)
@@ -133,7 +133,7 @@ class PriceInput(BaseModel):
             "latitude": 0.11, "longitude": 40.32, "year": 2025, "month": 6, "pack_size": 1.0}},
     )
 
-    commodity: str = Field(..., min_length=2, max_length=60, description="Commodity name exactly as in the WFP data, e.g. 'Maize (white)', 'Beans (dry)'")
+    commodity: str = Field(..., min_length=2, max_length=60, description="Commodity name, e.g. 'Maize (white)', 'Beans (dry)' (any letter case)")
     pricetype: str = Field(..., description="'Retail' or 'Wholesale'")
     admin1: str = Field(..., description="Former province / region, e.g. 'Rift Valley', 'Nairobi', 'Coast'")
     latitude: float = Field(..., ge=-4.8, le=5.0, description="Market latitude (Kenya spans about -4.7 to 5.0)")
@@ -142,7 +142,7 @@ class PriceInput(BaseModel):
     month: int = Field(..., ge=1, le=12, description="Month of sale, 1-12")
     pack_size: float = Field(..., gt=0, le=130, description="Quantity sold in kg (or litres), e.g. 1, 50, 90")
 
-        @field_validator("commodity", "pricetype", "admin1")
+    @field_validator("commodity", "pricetype", "admin1")
     @classmethod
     def must_be_known_category(cls, value: str, info):
         allowed = VALID[info.field_name]
