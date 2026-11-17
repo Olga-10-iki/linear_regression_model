@@ -27,21 +27,44 @@ enum FieldKind { text, integer, decimal }
 
 /// One input variable of the model: the JSON key the API expects, a label, a hint and its type.
 class InputSpec {
-  const InputSpec(this.key, this.label, this.hint, this.kind);
+  const InputSpec(this.key, this.label, this.hint, this.kind, {this.options});
   final String key;
   final String label;
   final String hint;
   final FieldKind kind;
+
+  /// When set, the text field also shows a drop-down list of these values (the user can still type).
+  final List<String>? options;
 }
 
-const List<InputSpec> inputSpecs = [
-  InputSpec('commodity', 'Commodity', 'e.g. Beans (dry), Maize (white), Sorghum', FieldKind.text),
-  InputSpec('pricetype', 'Price type', 'Retail or Wholesale', FieldKind.text),
-  InputSpec('admin1', 'Region', 'e.g. North Eastern, Rift Valley, Nairobi', FieldKind.text),
+// Valid values, taken from the training data (same lists the API accepts).
+const List<String> commodities = [
+  'Beans', 'Beans (dolichos)', 'Beans (dry)', 'Beans (kidney)', 'Beans (mung)', 'Beans (rosecoco)',
+  'Beans (yellow)', 'Bread', 'Cabbage', 'Cooking fat', 'Cowpea leaves', 'Cowpeas', 'Cowpeas (dry)',
+  'Fish (omena, dry)', 'Kale', 'Maize', 'Maize (white)', 'Maize (white, dry)', 'Maize flour',
+  'Maize flour (white)', 'Meat (beef)', 'Meat (camel)', 'Meat (goat)', 'Milk (UHT)', 'Milk (camel, fresh)',
+  'Milk (cow, fresh)', 'Milk (cow, pasteurized)', 'Millet (finger)', 'Oil (vegetable)',
+  'Oil (vegetable, fortified)', 'Onions (dry)', 'Onions (red)', 'Pigeon peas (dry)', 'Potatoes (Irish)',
+  'Potatoes (Irish, red)', 'Potatoes (Irish, white)', 'Rice', 'Rice (aromatic)', 'Rice (imported, Pakistan)',
+  'Salt', 'Sorghum', 'Sorghum (red)', 'Sorghum (white)', 'Spinach', 'Sugar', 'Tomatoes', 'Wheat flour',
+];
+const List<String> priceTypes = ['Retail', 'Wholesale'];
+const List<String> regions = [
+  'Central', 'Coast', 'Eastern', 'Nairobi', 'North Eastern', 'Nyanza', 'Rift Valley',
+];
+
+// Years and months the API accepts (year 2006-2030, month 1-12).
+final List<String> years = [for (var y = 2006; y <= 2030; y++) '$y'];
+final List<String> months = [for (var m = 1; m <= 12; m++) '$m'];
+
+final List<InputSpec> inputSpecs = [
+  InputSpec('commodity', 'Commodity', 'Tap to choose, or type to search', FieldKind.text, options: commodities),
+  InputSpec('pricetype', 'Price type', 'Retail or Wholesale', FieldKind.text, options: priceTypes),
+  InputSpec('admin1', 'Region', 'Tap to choose, or type to search', FieldKind.text, options: regions),
   InputSpec('latitude', 'Market latitude', '-4.8 to 5.0, e.g. 0.11', FieldKind.decimal),
   InputSpec('longitude', 'Market longitude', '33.9 to 42.0, e.g. 40.32', FieldKind.decimal),
-  InputSpec('year', 'Year', '2006 to 2030', FieldKind.integer),
-  InputSpec('month', 'Month', '1 to 12', FieldKind.integer),
+  InputSpec('year', 'Year', 'Tap to choose (2006 to 2030)', FieldKind.integer, options: years),
+  InputSpec('month', 'Month', 'Tap to choose (1 = January ... 12 = December)', FieldKind.integer, options: months),
   InputSpec('pack_size', 'Quantity (kg or L)', 'e.g. 1, 50, 90', FieldKind.decimal),
 ];
 
@@ -165,6 +188,22 @@ class _PredictionPageState extends State<PredictionPage> {
   }
 
   Widget _field(InputSpec spec) {
+    final options = spec.options;
+    if (options != null) {
+      // Text field with a drop-down list: tap to pick a value, or type to filter the list.
+      return DropdownMenu<String>(
+        controller: _controllers[spec.key],
+        label: Text(spec.label),
+        helperText: spec.hint,
+        expandedInsets: EdgeInsets.zero, // full width, aligned with the other fields
+        enableFilter: true,
+        requestFocusOnTap: true,
+        menuHeight: 300,
+        dropdownMenuEntries: [
+          for (final value in options) DropdownMenuEntry<String>(value: value, label: value),
+        ],
+      );
+    }
     return TextField(
       controller: _controllers[spec.key],
       keyboardType: switch (spec.kind) {

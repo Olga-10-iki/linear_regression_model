@@ -142,13 +142,16 @@ class PriceInput(BaseModel):
     month: int = Field(..., ge=1, le=12, description="Month of sale, 1-12")
     pack_size: float = Field(..., gt=0, le=130, description="Quantity sold in kg (or litres), e.g. 1, 50, 90")
 
-    @field_validator("commodity", "pricetype", "admin1")
+        @field_validator("commodity", "pricetype", "admin1")
     @classmethod
     def must_be_known_category(cls, value: str, info):
         allowed = VALID[info.field_name]
-        if value not in allowed:
+        # ignore capital letters and extra spaces: "beans (dry)" -> "Beans (dry)"
+        lookup = {v.lower(): v for v in allowed}
+        match = lookup.get(value.strip().lower())
+        if match is None:
             raise ValueError(f"'{value}' is not a known {info.field_name}. Allowed values: {', '.join(allowed)}")
-        return value
+        return match
 
 
 class PriceOutput(BaseModel):
