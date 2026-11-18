@@ -14,7 +14,7 @@ to **KES per kg (or litre)**, which is the regression target.
 
 ## API (Swagger UI)
 
-Public Swagger UI: **/docs** ← *replace with your Render URL*
+Public Swagger UI: **/docs** ← *[(https://kenya-food-price-api.onrender.com/docs#/model/predict_predict_post)*]
 
 - `POST /predict` — 8 inputs (commodity, pricetype, admin1, latitude, longitude, year, month, pack_size) → predicted KES/kg
 - `POST /retrain` — upload a CSV in the WFP format (see `summative/API/sample_new_data.csv`); the model is refit on the
@@ -33,7 +33,7 @@ YouTube: **https://youtu.be/REPLACE_ME** ← *replace with your video link*
    USB debugging on. Check with `flutter doctor`.
 2. Clone the repository and open the app folder:
    ```bash
-   git clone https://github.com/<your-username>/linear_regression_model.git
+   git clone https://github.com/Olga-10-iki/linear_regression_model.git
    cd linear_regression_model/summative/FlutterApp
    ```
 3. Generate the platform folders (only needed once if `android/` is missing; existing files are kept):
