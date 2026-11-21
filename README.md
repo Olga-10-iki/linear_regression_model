@@ -14,7 +14,7 @@ to **KES per kg (or litre)**, which is the regression target.
 
 ## API (Swagger UI)
 
-Public Swagger UI: https://kenya-food-price-api.onrender.com/docs#/model/predict_predict_post
+Public Swagger UI: https://kenya-food-price-api.onrender.com/docs
 
 - `POST /predict` — 8 inputs (commodity, pricetype, admin1, latitude, longitude, year, month, pack_size) → predicted KES/kg
 - `POST /retrain` — upload a CSV in the WFP format (see `summative/API/sample_new_data.csv`); the model is refit on the
@@ -25,7 +25,7 @@ Public Swagger UI: https://kenya-food-price-api.onrender.com/docs#/model/predict
 
 ## Video demo
 
-YouTube: **https://youtu.be/REPLACE_ME** ← *replace with your video link*
+YouTube: https://youtu.be/DBkhV5mLcwA
 
 ## How to run the mobile app
 
